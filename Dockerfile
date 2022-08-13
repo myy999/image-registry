@@ -1,2 +1,2 @@
 # 需要构建的镜像名称和版本
-FROM prom/prometheus
+FROM oliver006/redis_exporter:latest
